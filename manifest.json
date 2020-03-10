@@ -27,7 +27,6 @@
         "storage",
         "notifications",
         "http://music.163.com/api/*",
-        "http://tingapi.ting.baidu.com/*",
-        "https://store.line.me/*"
+        "http://tingapi.ting.baidu.com/*"
     ]
 }
