@@ -23,7 +23,6 @@
     ],
     "permissions": [
         "tabs",
-        "alarms",
         "storage",
         "notifications",
         "http://music.163.com/api/*",
